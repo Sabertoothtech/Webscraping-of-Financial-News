@@ -20,7 +20,7 @@ for Scraping code [Click here](https://github.com/Sabertoothtech/Webscraping-of-
 The data links are crawled from a website and all links in that website is saved in crawled.txt. Terminating condition of the
 crawler is when **.pdf or .txt** file is received. Using the crawler we dowloaded annual reports of companies listed in nse.
 
-for Crawler Code [Click Here](https://github.com/Sabertoothtech/Webscraping-of-Financial-News/tree/master/Scraping/Crawler).
+for Crawler Code [Click Here](https://github.com/Sabertoothtech/Webscraping-of-Financial-News/tree/master/Crawler).
 
 ### Using Twitter API for Extracting latest news from twitter:
 
@@ -32,4 +32,4 @@ of the api.
 
 **Register for API here**: https://developer.twitter.com/content/developer-twitter/en.html
 
-For Twitter code [Click Here](https://github.com/Sabertoothtech/Webscraping-of-Financial-News/tree/master/Scraping/TwitterScraping).
+For Twitter code [Click Here](https://github.com/Sabertoothtech/Webscraping-of-Financial-News/tree/master/TwitterScraping).
