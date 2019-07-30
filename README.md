@@ -13,14 +13,14 @@ pip install BeautifulSoup
 The data extracted has the following format: 
 #### Date, Title, Subtitle, Content, Tags, Categories, Sources 
 
-for Scraping code [Click here](https://github.com/vishalsingh9423/Stock-Prediction/tree/master/Scraping/ScrapingUsingBeautifulSoup).
+for Scraping code [Click here](https://github.com/Sabertoothtech/Webscraping-of-Financial-News/tree/master/ScrapingUsingBeautifulSoup).
 
 ### Using Crawler for getting data:
 
 The data links are crawled from a website and all links in that website is saved in crawled.txt. Terminating condition of the
 crawler is when **.pdf or .txt** file is received. Using the crawler we dowloaded annual reports of companies listed in nse.
 
-for Crawler Code [Click Here](https://github.com/vishalsingh9423/Stock-Prediction/tree/master/Scraping/Crawler).
+for Crawler Code [Click Here](https://github.com/Sabertoothtech/Webscraping-of-Financial-News/tree/master/Scraping/Crawler).
 
 ### Using Twitter API for Extracting latest news from twitter:
 
@@ -32,4 +32,4 @@ of the api.
 
 **Register for API here**: https://developer.twitter.com/content/developer-twitter/en.html
 
-For Twitter code [Click Here](https://github.com/vishalsingh9423/Stock-Prediction/tree/master/Scraping/TwitterScraping).
+For Twitter code [Click Here](https://github.com/Sabertoothtech/Webscraping-of-Financial-News/tree/master/Scraping/TwitterScraping).
