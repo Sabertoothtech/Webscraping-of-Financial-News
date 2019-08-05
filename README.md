@@ -4,7 +4,7 @@ First step in predicting the stock prices based on news is;
 
 ### Collecting Data:
 Mainly company related news which are listed nse India
-* Using twitter API 
+  * Using twitter API 
   * Webscraping
   * Crawling
   * Kaggle
