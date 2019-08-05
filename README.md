@@ -1,5 +1,14 @@
 # Webscraping-of-Financial-News
 
+First step in predicting the stock prices based on news is;
+
+### Collecting Data:
+Mainly company related news which are listed nse India
+* Using twitter API 
+  * Webscraping
+  * Crawling
+  * Kaggle
+  
 ### Scraping Using Beautiful Soup.
 
 BeautifulSoup library of python is meant for extracting data from html tags, using beautiful soup library we extracted data from news sources like Reuters, Moneycontrol, IIFL, Business standards and
