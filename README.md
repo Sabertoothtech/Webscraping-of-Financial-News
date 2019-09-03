@@ -8,6 +8,7 @@ Mainly company related news which are listed nse India
   * Webscraping
   * Crawling
   * Kaggle
+  * thedatastore.in
   
 ### Scraping Using Beautiful Soup.
 
