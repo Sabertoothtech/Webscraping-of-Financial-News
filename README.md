@@ -12,7 +12,7 @@ Mainly company related news which are listed nse India
   
 ### Scraping Using Beautiful Soup.
 
-BeautifulSoup library of python is meant for extracting data from html tags, using beautiful soup library we extracted data from news sources like Reuters, Moneycontrol, IIFL, Business standards and
+BeautifulSoup library of python is meant for extracting data from html tags. Using the library we extracted data from news sources like Reuters, Moneycontrol, IIFL, Business standards and
 Economic-times.
 
 To install beautifulSoup, type this command on terminal: 
@@ -27,7 +27,7 @@ for Scraping code [Click here](https://github.com/Sabertoothtech/Webscraping-of-
 
 ### Using Crawler for getting data:
 
-The data links are crawled from a website and all links in that website is saved in crawled.txt. Terminating condition of the
+The data links are crawled from a website and all links from that website are saved in crawled.txt. Terminating condition of the
 crawler is when **.pdf or .txt** file is received. Using the crawler we dowloaded annual reports of companies listed in nse.
 
 for Crawler Code [Click Here](https://github.com/Sabertoothtech/Webscraping-of-Financial-News/tree/master/Crawler).
